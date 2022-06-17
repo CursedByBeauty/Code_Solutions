@@ -47,7 +47,7 @@ def factorChecker(number):
 factorChecker(8)
 
 
-input = [3,4,5,6,8,9]
+input = [3,4,5,6,8,9,11,13,19,23,34,49]
 result = SortedPrimes(input)
 print(result)
 
